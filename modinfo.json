@@ -1,0 +1,20 @@
+{
+    "context": "server",
+    "identifier": "Experimentals",
+    "display_name": "Experimental Weapons",
+    "description": "Tell me how this works please",
+    "author": "Formal Rice Famer And Ludsoe",
+    "version": "1.0.0",
+    "build": "75539",
+    "date": "2014/12/27",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "id": "experimentweapsludnrice",
+    "icon": "",
+    "forum": "",
+    "priority": 100,
+    "enabled": true
+}
