@@ -51,7 +51,7 @@
     }
   },
   "model": {
-    "filename": "/pa/units/land/vehicle_factory_exp/vehicle_factory_exp.papa",
+    "filename": "/pa/units/land/vehicle_factory_exp/test_factory.papa",
     "animations": {
       "idle": "/pa/units/land/vehicle_factory_exp/vehicle_factory_exp_anim_build.papa",
       "build_start": "/pa/units/land/vehicle_factory_exp/vehicle_factory_exp_anim_start.papa",
